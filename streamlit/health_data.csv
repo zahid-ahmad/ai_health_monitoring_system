@@ -1,0 +1,4 @@
+Date,Time,Blood Pressure,Systolic,Diastolic,Heart Rate,Glucose,Mood,Symptoms,Risk Score,DateTime,BP Systolic,BP Diastolic,Oxygen,Temperature
+2025-09-28,11:55:59,120/80,120.0,80.0,72,100.0,7.0,,0.0,,,,,
+2025-09-28,11:57:56,120/80,120.0,80.0,72,100.0,7.0,,0.0,,,,,
+,,,,,72,,,,,2025-09-28 12:01:10,120.0,80.0,98.0,36.8
